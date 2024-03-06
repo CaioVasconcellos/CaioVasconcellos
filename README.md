@@ -2,6 +2,14 @@
 <h3>Procuro vaga para melhorar minha prática como desenvolvedor. Demonstro habilidades proativas e sólidas de trabalho em equipe fundamentadas na capacidade de ouvir e aprender com os outros.
 Estou em busca de oportunidades.</h3>
 
+#
+<h3> 🖥️ Desenvolvedor Java </h3>
+<h3> 🏡 Brasil </h3>
+<h3> 🎓 Estudo Análise e Desenvolvimento de Sistemas </h3>
+<h3> 🏫 Possuo formação em Psicologia </h3>
+<h3> 📚 Estudando Banco de Dados e Spring Boot </h3>
+
+##
 <h3 align="left", class = about-me>Sobre mim:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/caio-vasconcellos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caio-vasconcellos" height="30" width="40" /></a>
