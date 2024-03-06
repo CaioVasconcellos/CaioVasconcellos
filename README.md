@@ -2,7 +2,7 @@
 <h3>Procuro vaga para melhorar minha prática como desenvolvedor. Demonstro habilidades proativas e sólidas de trabalho em equipe fundamentadas na capacidade de ouvir e aprender com os outros.
 Estou em busca de oportunidades.</h3>
 
-<h3 align="left">Sobre mim:</h3>
+<h3 align="left", class = about-me>Sobre mim:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/caio-vasconcellos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caio-vasconcellos" height="30" width="40" /></a>
 <a href="https://instagram.com/caioeduardorv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caioeduardorv" height="30" width="40" /></a>
@@ -10,9 +10,9 @@ Estou em busca de oportunidades.</h3>
 </p>
 
 <div>
-<a href ="https://github.com/kyo085">
-<img height= "450cm" width="450cm" src="https://github-readme-stats.vercel.app/api?username=kyo085&show_icons=true&theme=dracula">
-<img  height= "450cm" width="450cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyo085&show_icons=true&locale=en&layout=compact&theme=dracula">
+  <a href="https://github.com/kyo085">
+    <img height="180cm" width="450cm" src="https://github-readme-stats.vercel.app/api?username=kyo085&show_icons=true&theme=dracula">
+    <img height="180cm" width="450cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyo085&show_icons=true&locale=en&layout=compact&theme=dracula">
 </div>
 
 
