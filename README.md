@@ -1,4 +1,4 @@
-<h1>Bem vindo! 👋</h1>
+<h1>Bem vindo(a)! 👋</h1>
 <h3>Procuro vaga para melhorar minha prática como desenvolvedor. Demonstro habilidades proativas e sólidas de trabalho em equipe fundamentadas na capacidade de ouvir e aprender com os outros.
 Estou em busca de oportunidades.</h3>
 
