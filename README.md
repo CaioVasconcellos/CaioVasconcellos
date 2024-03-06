@@ -11,8 +11,8 @@ Estou em busca de oportunidades.</h3>
 
 <div>
 <a href ="https://github.com/kyo085">
-<img height= "180cm" src="https://github-readme-stats.vercel.app/api?username=kyo085&show_icons=true&theme=dracula" alt="kyo085">
-<img height= "180cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyo085&show_icons=true&locale=en&layout=compact&theme=dracula" alt="kyo085">
+<img height= "450cm" width="450cm" src="https://github-readme-stats.vercel.app/api?username=kyo085&show_icons=true&theme=dracula">
+<img  height= "450cm" width="450cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyo085&show_icons=true&locale=en&layout=compact&theme=dracula">
 </div>
 
 
