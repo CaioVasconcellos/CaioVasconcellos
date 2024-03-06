@@ -9,8 +9,11 @@ Estou em busca de oportunidades.</h3>
 <a href="mailto:ceduardorvasconcellos@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="caioeduardorv" height="30" width="80" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kyo085&show_icons=true&theme=dracula" alt="kyo085" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyo085&show_icons=true&locale=en&layout=compact&theme=dracula" alt="kyo085" /></p>
+<div>
+<a href ="https://github.com/kyo085">
+<img height= "180cm" src="https://github-readme-stats.vercel.app/api?username=kyo085&show_icons=true&theme=dracula" alt="kyo085">
+<img height= "180cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyo085&show_icons=true&locale=en&layout=compact&theme=dracula" alt="kyo085">
+</div>
 
 
 <h3 align="left">Linguagens e ferramentas:</h3>
