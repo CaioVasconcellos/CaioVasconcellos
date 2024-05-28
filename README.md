@@ -20,8 +20,8 @@ Estou em busca de oportunidades.</h3>
 
 <div>
   <a href="https://github.com/CaioVasconcellos">
-    <img height="180cm" width="380cm" src="https://github-readme-stats.vercel.app/api?username=kyo085&show_icons=true&theme=radical">
-    <img height="180cm" width="380cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyo085&show_icons=true&locale=en&layout=compact&theme=radical">
+    <img height="180cm" width="380cm" src="https://github-readme-stats.vercel.app/api?username=CaioVasconcellos&show_icons=true&theme=radical">
+    <img height="180cm" width="380cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioVasconcellos&show_icons=true&locale=en&layout=compact&theme=radical">
 </div>
 
   ##
