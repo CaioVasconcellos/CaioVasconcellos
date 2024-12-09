@@ -1,5 +1,5 @@
 <h1>Bem vindo(a)! 👋</h1>
-<h3>Procuro vaga para melhorar minha prática como desenvolvedor. Demonstro habilidades proativas e sólidas de trabalho em equipe fundamentadas na capacidade de ouvir e aprender com os outros.</h3>
+<h3>Estagiário em Garantia de Qualidade. Possuo conhecimento em Java e em Spring Boot para desenvolvimento WEB, utilizando banco de dados SQL.</h3>
 
 #
 <h3> 🖥️ Desenvolvedor Java </h3>
