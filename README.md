@@ -72,6 +72,6 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/CaioVasconcellos/CaioVasconcellos/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/CaioVasconcellos/CaioVasconcellos/output/snake.svg" alt="Snake animation" />
 
 ###
