@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Estagiário em Garantia de Qualidade. <br>Principais conhecimentos: Java | Spring | SQL | Rest Assured | Selenium | Cypress</h4>
+<h4 align="left">Desenvolvedor de Software. <br>Principais conhecimentos: Java | Spring | React | SQL | Rest Assured | Selenium | Cypress</h4>
 
 ###
 
